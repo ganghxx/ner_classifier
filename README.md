@@ -15,6 +15,6 @@
   - ③ Word2Vec, BERT Pre-trained model 활용 어뷰징 뉴스 판별 기능 제작
   - ④ 개발 단계별 산출물 작성
 
-현재 issue
+## 현재 issue
 NER은 버터블록과 연결되어 있지 않아 사용할 수 없습니다.
 classifier도 모델이 첨부되지 않아(용량 issue) 사용할 수 없습니다.
